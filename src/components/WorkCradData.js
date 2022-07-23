@@ -1,28 +1,28 @@
 import pro1 from "../assets/cyptopr.jpg";
 import Pro2 from "../assets/Capture.PNG";
-import Pro3 from "../assets/cyptopr.jpg";
+import Pro3 from "../assets/snake.png";
 
 const ProjectCardData =[
 {
 
 imgsrc: pro1,
-title:"Crypto Currency Tracker",
-Text:"A project that take previous data of any Coin And moniter it in real Time  made  with use of tech like React, html,css,js and bootstrap using this api ",
+title:"Crypto Hunter",
+Text:"A project that take previous data of any Coin for prediction And moniter it in real Time  made using eck Stack-React.js, Chart.js, Context API ,HTML , Css,JavaScript. ",
 view: "url.com" ,       
 },
 {
 
     imgsrc:Pro2,
     title:"My Portfolio",
-    Text:  " The place where you are right now A project that take previous data of any Coin And moniter it in real Time  made  with use of tech like React, html,css,js and bootstrap using this api ",
+    Text:  " The place where you are right now made using Tech Stack- React.js, Node.js, Bootstrap, HTML , Css, JavaScript My Personal Portfolio Website Where I showcase all my Work and about Me.",
     
      view: "url.com" ,       
     },
     {
 
         imgsrc:Pro3,
-        title:"game",
-        Text:"A project that take previous data of any Coin And moniter it in real Time  made  with use of tech like React, html,css,js and bootstrap using this api ",
+        title:"Snake game",
+        Text:"Tech Stack-HTML, Css, JavaScript A classic old but interesting game that all of us have played it'll remind yoy old days..",
         
          view: "url.com"  ,      
      },
