@@ -14,7 +14,7 @@ view: "url.com" ,
 
     imgsrc:Pro2,
     title:"My Portfolio",
-    Text:  "A project that take previous data of any Coin And moniter it in real Time  made  with use of tech like React, html,css,js and bootstrap using this api ",
+    Text:  " The place where you are right now A project that take previous data of any Coin And moniter it in real Time  made  with use of tech like React, html,css,js and bootstrap using this api ",
     
      view: "url.com" ,       
     },
