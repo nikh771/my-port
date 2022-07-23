@@ -22,7 +22,7 @@ view: "url.com" ,
 
         imgsrc:Pro3,
         title:"Snake game",
-        Text:"Tech Stack-HTML, Css, JavaScript A classic old but interesting game that all of us have played it'll remind yoy old days..",
+        Text:"Tech Stack-HTML, Css, JavaScript A classic old but interesting game that all of us have played and Enjoyed it'll remind yoy old days..",
         
          view: "url.com"  ,      
      },
