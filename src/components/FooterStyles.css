@@ -30,6 +30,9 @@
     flex-direction: column;
     padding: 1rem;
 }
+.social{
+    margin-top: 1rem;
+}
 .social a{
     padding-left: 3em;
     
@@ -46,11 +49,11 @@ p{
     font-size: 1.2rem;
 }
 
-@media screen and(max-width:640px) {
+@media screen and (max-width: 640px) {
     .footer-container{
+     
         grid-template-columns: 1fr;
         /* in small screen device left and right each will take 1 frame */
 
     }
-    
 }

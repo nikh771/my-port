@@ -5,6 +5,7 @@ import Navbar from 'react-bootstrap/Navbar';
 function Navbi() {
   return (
     <>
+ 
       <Navbar bg="dark" variant="dark">
         <Container>
           <Navbar.Brand href="/">Portfolio</Navbar.Brand>

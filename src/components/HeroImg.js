@@ -10,8 +10,8 @@ const HeroImg = () => {
 
     </div>
     <div className="content">
-      <p>Hello, I'm Nikhil A Btech Undergrad @IIIT JABALPUR</p>
-       <h1>A Mern Stack Developer</h1>
+      <p>Hello, I'm Nikhil A B.tech Undergrad @IIIT JABALPUR</p>
+       <h1>A Front End Developer</h1>
       
       <div>
        <a href="NIKHIL_BARMAN_CV.pdf" download='NIKHIL_BARMAN_CV.pdf'> 
